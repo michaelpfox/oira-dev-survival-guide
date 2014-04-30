@@ -11,5 +11,5 @@
 > $ git add .  
 > $ git commit -m 'initial commit' -a  
 > $ git remote add origin git@YOUR_SERVER_HOSTNAME:REPONAME  
-> $ git push origin master
+> $ git push -u origin master  #(-u to --set-upstream-to)
 
