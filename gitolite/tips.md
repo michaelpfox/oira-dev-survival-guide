@@ -2,7 +2,7 @@
 
 ## Add Local Repo to Gitolite
 1. First add an entry in your gitolite-admin/conf/gitolite.conf
-> repo reponame
+> repo reponame  
 > RW+ = @admins @oiraservs
     
 2. Assuming you have a local repo all ready, then:  
